@@ -23,40 +23,11 @@ account_info=mt5.account_info()
 ctalgda = (account_info[0])
 nome = (account_info[24])
 
-# Conta Demo Rico Cleverson
-#cta_autorizada = 3000825647 
-#cta_autorizada2 = '30------47'
-#nome2 = ' Cleverson - Rico - DEMO'
-
-# Conta Mara Modal
-#cta_autorizada = 3524460
-#nome2 = ' Mara - Modal - REAL'
-
-# Conta Demo XP João
-#cta_autorizada = 93059907 
-#cta_autorizada2 = '93----07'
-#nome2 = ' João - XP - DEMO'
-
-# Renata
-#cta_autorizada = 2980505 
-#cta_autorizada2 = '29---05'
-#nome2 = ' Renata - BTG - REAL'
-
-# Rubinho
-#cta_autorizada = 1000744605 
-#cta_autorizada2 = '10------05' 
-#nome2 = ' Ruben - Clear - REAL'
 
 # # Conta Demo Rico João 
-cta_autorizada = 3000165639 
+cta_autorizada = ********** 
 cta_autorizada2 = '30------39'
 nome2 = ' João - Rico - DEMO'
-
-# Conta Demo Rico João II
-#cta_autorizada = 3000662347
-#cta_autorizada2 = '30------47'
-#nome2 = ' João - Rico - DEMO'
-
 
 
 corretora = (account_info[27])
