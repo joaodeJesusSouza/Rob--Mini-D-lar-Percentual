@@ -18,14 +18,14 @@ df_taxas = []
 data=datetime.datetime.now()
 hr = time.strftime('%H:%M:%S')
 data=datetime.datetime.now()
-data_A=datetime.datetime(2022, 5, 31)
+data_A=datetime.datetime(2023, 4, 28)
 account_info=mt5.account_info()
 ctalgda = (account_info[0])
 nome = (account_info[24])
 
 
 # # Conta Demo Rico João 
-cta_autorizada = '**********' 
+cta_autorizada = '********' 
 cta_autorizada2 = '30------39'
 nome2 = ' João - Rico - DEMO'
 
@@ -87,7 +87,7 @@ if data < data_A:
         print("...", sep='\n')
         time.sleep(1)
         #symbol = (input('Ativo: '))
-        symbol = 'WDOM22'
+        symbol = 'WDOK23'
         #lot = (input('Quantida de contratos: '))
         
         ativo = symbol
