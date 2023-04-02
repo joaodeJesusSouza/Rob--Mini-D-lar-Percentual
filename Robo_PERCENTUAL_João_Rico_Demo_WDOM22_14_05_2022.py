@@ -25,7 +25,7 @@ nome = (account_info[24])
 
 
 # # Conta Demo Rico João 
-cta_autorizada = ********** 
+cta_autorizada = '**********' 
 cta_autorizada2 = '30------39'
 nome2 = ' João - Rico - DEMO'
 
